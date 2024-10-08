@@ -1,0 +1,16 @@
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Infrastructure\bin\Debug\net8.0\Fondos.Infrastructure.deps.json
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Infrastructure\bin\Debug\net8.0\Fondos.Infrastructure.dll
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Infrastructure\bin\Debug\net8.0\Fondos.Infrastructure.pdb
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Infrastructure\bin\Debug\net8.0\Fondos.Application.dll
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Infrastructure\bin\Debug\net8.0\Fondos.Application.pdb
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Infrastructure\obj\Debug\net8.0\Fondos.Infrastructure.csproj.AssemblyReference.cache
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Infrastructure\obj\Debug\net8.0\Fondos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Infrastructure\obj\Debug\net8.0\Fondos.Infrastructure.AssemblyInfoInputs.cache
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Infrastructure\obj\Debug\net8.0\Fondos.Infrastructure.AssemblyInfo.cs
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Infrastructure\obj\Debug\net8.0\Fondos.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Infrastructure\obj\Debug\net8.0\Fondos.Infrastructure.sourcelink.json
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Infrastructure\obj\Debug\net8.0\Fondos.I.ED63874B.Up2Date
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Infrastructure\obj\Debug\net8.0\Fondos.Infrastructure.dll
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Infrastructure\obj\Debug\net8.0\refint\Fondos.Infrastructure.dll
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Infrastructure\obj\Debug\net8.0\Fondos.Infrastructure.pdb
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Infrastructure\obj\Debug\net8.0\ref\Fondos.Infrastructure.dll

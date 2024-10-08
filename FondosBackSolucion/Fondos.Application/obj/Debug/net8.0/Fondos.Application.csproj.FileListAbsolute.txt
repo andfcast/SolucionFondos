@@ -1,0 +1,12 @@
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Application\bin\Debug\net8.0\Fondos.Application.deps.json
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Application\bin\Debug\net8.0\Fondos.Application.dll
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Application\bin\Debug\net8.0\Fondos.Application.pdb
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Application\obj\Debug\net8.0\Fondos.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Application\obj\Debug\net8.0\Fondos.Application.AssemblyInfoInputs.cache
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Application\obj\Debug\net8.0\Fondos.Application.AssemblyInfo.cs
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Application\obj\Debug\net8.0\Fondos.Application.csproj.CoreCompileInputs.cache
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Application\obj\Debug\net8.0\Fondos.Application.sourcelink.json
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Application\obj\Debug\net8.0\Fondos.Application.dll
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Application\obj\Debug\net8.0\refint\Fondos.Application.dll
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Application\obj\Debug\net8.0\Fondos.Application.pdb
+D:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Application\obj\Debug\net8.0\ref\Fondos.Application.dll
