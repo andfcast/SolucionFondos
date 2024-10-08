@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{402FBED9-098C-45C4-A689-2633F767C83C}|Fondos.WebAPI\\Fondos.WebAPI.csproj|d:\\git\\solucionfondoss\\backend\\fondosbacksolucion\\fondos.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402FBED9-098C-45C4-A689-2633F767C83C}|Fondos.WebAPI\\Fondos.WebAPI.csproj|solutionrelative:fondos.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{402FBED9-098C-45C4-A689-2633F767C83C}|Fondos.WebAPI\\Fondos.WebAPI.csproj|d:\\git\\solucionfondoss\\backend\\fondosbacksolucion\\fondos.webapi\\controllers\\fondoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{402FBED9-098C-45C4-A689-2633F767C83C}|Fondos.WebAPI\\Fondos.WebAPI.csproj|solutionrelative:fondos.webapi\\controllers\\fondoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A642EFC6-34C4-45D2-A1EF-E1D8FBB31062}|Fondos.Domain\\Fondos.Domain.csproj|d:\\git\\solucionfondoss\\backend\\fondosbacksolucion\\fondos.domain\\fondodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A642EFC6-34C4-45D2-A1EF-E1D8FBB31062}|Fondos.Domain\\Fondos.Domain.csproj|solutionrelative:fondos.domain\\fondodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4353A8-3B8A-4330-9C96-17349A12B9E9}|Fondos.Application\\Fondos.Application.csproj|d:\\git\\solucionfondoss\\backend\\fondosbacksolucion\\fondos.application\\fondos.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C4353A8-3B8A-4330-9C96-17349A12B9E9}|Fondos.Application\\Fondos.Application.csproj|solutionrelative:fondos.application\\fondos.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C52DBA-AB53-4F53-AC72-112B8712AF21}|Fondos.Infrastructure\\Fondos.Infrastructure.csproj|d:\\git\\solucionfondoss\\backend\\fondosbacksolucion\\fondos.infrastructure\\repositories\\fondorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C52DBA-AB53-4F53-AC72-112B8712AF21}|Fondos.Infrastructure\\Fondos.Infrastructure.csproj|solutionrelative:fondos.infrastructure\\repositories\\fondorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4353A8-3B8A-4330-9C96-17349A12B9E9}|Fondos.Application\\Fondos.Application.csproj|d:\\git\\solucionfondoss\\backend\\fondosbacksolucion\\fondos.application\\interfaces\\ifondorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4353A8-3B8A-4330-9C96-17349A12B9E9}|Fondos.Application\\Fondos.Application.csproj|solutionrelative:fondos.application\\interfaces\\ifondorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FondosController.cs",
+              "DocumentMoniker": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.WebAPI\\Controllers\\FondosController.cs",
+              "RelativeDocumentMoniker": "Fondos.WebAPI\\Controllers\\FondosController.cs",
+              "ToolTip": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.WebAPI\\Controllers\\FondosController.cs",
+              "RelativeToolTip": "Fondos.WebAPI\\Controllers\\FondosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:58:28.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Fondos.WebAPI\\Program.cs",
+              "ToolTip": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.WebAPI\\Program.cs",
+              "RelativeToolTip": "Fondos.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:56:58.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFondoRepository.cs",
+              "DocumentMoniker": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Application\\Interfaces\\IFondoRepository.cs",
+              "RelativeDocumentMoniker": "Fondos.Application\\Interfaces\\IFondoRepository.cs",
+              "ToolTip": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Application\\Interfaces\\IFondoRepository.cs",
+              "RelativeToolTip": "Fondos.Application\\Interfaces\\IFondoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:53:21.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fondos.Application",
+              "DocumentMoniker": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Application\\Fondos.Application.csproj",
+              "RelativeDocumentMoniker": "Fondos.Application\\Fondos.Application.csproj",
+              "ToolTip": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Application\\Fondos.Application.csproj",
+              "RelativeToolTip": "Fondos.Application\\Fondos.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T16:46:53.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FondoRepository.cs",
+              "DocumentMoniker": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Infrastructure\\Repositories\\FondoRepository.cs",
+              "RelativeDocumentMoniker": "Fondos.Infrastructure\\Repositories\\FondoRepository.cs",
+              "ToolTip": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Infrastructure\\Repositories\\FondoRepository.cs",
+              "RelativeToolTip": "Fondos.Infrastructure\\Repositories\\FondoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:52:51.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FondoDto.cs",
+              "DocumentMoniker": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Domain\\FondoDto.cs",
+              "RelativeDocumentMoniker": "Fondos.Domain\\FondoDto.cs",
+              "ToolTip": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Domain\\FondoDto.cs",
+              "RelativeToolTip": "Fondos.Domain\\FondoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:42:22.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
