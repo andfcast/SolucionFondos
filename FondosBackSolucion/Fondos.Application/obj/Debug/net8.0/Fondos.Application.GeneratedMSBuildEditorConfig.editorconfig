@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Fondos.Application
-build_property.ProjectDir = d:\Git\SolucionFondoss\Backend\FondosBackSolucion\Fondos.Application\
+build_property.ProjectDir = D:\Git\SolucionFondos\FondosBackSolucion\Fondos.Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

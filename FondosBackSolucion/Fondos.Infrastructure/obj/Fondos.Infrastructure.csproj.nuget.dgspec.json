@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Infrastructure\\Fondos.Infrastructure.csproj": {}
+    "D:\\Git\\SolucionFondos\\FondosBackSolucion\\Fondos.Infrastructure\\Fondos.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Application\\Fondos.Application.csproj": {
+    "D:\\Git\\SolucionFondos\\FondosBackSolucion\\Fondos.Application\\Fondos.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Application\\Fondos.Application.csproj",
+        "projectUniqueName": "D:\\Git\\SolucionFondos\\FondosBackSolucion\\Fondos.Application\\Fondos.Application.csproj",
         "projectName": "Fondos.Application",
-        "projectPath": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Application\\Fondos.Application.csproj",
+        "projectPath": "D:\\Git\\SolucionFondos\\FondosBackSolucion\\Fondos.Application\\Fondos.Application.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Application\\obj\\",
+        "outputPath": "D:\\Git\\SolucionFondos\\FondosBackSolucion\\Fondos.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Infrastructure\\Fondos.Infrastructure.csproj": {
+    "D:\\Git\\SolucionFondos\\FondosBackSolucion\\Fondos.Infrastructure\\Fondos.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Infrastructure\\Fondos.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Git\\SolucionFondos\\FondosBackSolucion\\Fondos.Infrastructure\\Fondos.Infrastructure.csproj",
         "projectName": "Fondos.Infrastructure",
-        "projectPath": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Infrastructure\\Fondos.Infrastructure.csproj",
+        "projectPath": "D:\\Git\\SolucionFondos\\FondosBackSolucion\\Fondos.Infrastructure\\Fondos.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Infrastructure\\obj\\",
+        "outputPath": "D:\\Git\\SolucionFondos\\FondosBackSolucion\\Fondos.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Application\\Fondos.Application.csproj": {
-                "projectPath": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Application\\Fondos.Application.csproj"
+              "D:\\Git\\SolucionFondos\\FondosBackSolucion\\Fondos.Application\\Fondos.Application.csproj": {
+                "projectPath": "D:\\Git\\SolucionFondos\\FondosBackSolucion\\Fondos.Application\\Fondos.Application.csproj"
               }
             }
           }
@@ -118,6 +118,26 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

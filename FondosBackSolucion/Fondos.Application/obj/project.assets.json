@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Application\\Fondos.Application.csproj",
+      "projectUniqueName": "D:\\Git\\SolucionFondos\\FondosBackSolucion\\Fondos.Application\\Fondos.Application.csproj",
       "projectName": "Fondos.Application",
-      "projectPath": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Application\\Fondos.Application.csproj",
+      "projectPath": "D:\\Git\\SolucionFondos\\FondosBackSolucion\\Fondos.Application\\Fondos.Application.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\SolucionFondoss\\Backend\\FondosBackSolucion\\Fondos.Application\\obj\\",
+      "outputPath": "D:\\Git\\SolucionFondos\\FondosBackSolucion\\Fondos.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
